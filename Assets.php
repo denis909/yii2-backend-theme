@@ -1,6 +1,6 @@
 <?php
 
-namespace denis909\backend\theme;
+namespace backend\theme;
 
 class Assets extends \yii\web\AssetBundle
 {
