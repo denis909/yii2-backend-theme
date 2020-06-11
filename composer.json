@@ -5,5 +5,8 @@
         "psr-4": {
             "backend\\theme\\" : ""
         }
+    },
+    "require": {
+        "denis909/yii2-theme": "*"
     }
 }
