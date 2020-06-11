@@ -2,6 +2,6 @@
 
 namespace backend\theme;
 
-class Assets extends \yii\web\AssetBundle
+class Assets extends \denis909\theme\Assets
 {
 }

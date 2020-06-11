@@ -2,6 +2,6 @@
 
 namespace backend\theme;
 
-class MainLayout extends \yii\base\Widget
+class MainLayout extends \denis909\theme\MainLayout
 {
 }
