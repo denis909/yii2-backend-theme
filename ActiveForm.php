@@ -2,6 +2,6 @@
 
 namespace backend\theme;
 
-class ActiveForm extends \yii\widgets\ActiveForm
+class ActiveForm extends \denis909\theme\ActiveForm
 {
 }

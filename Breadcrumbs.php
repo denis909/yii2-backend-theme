@@ -2,6 +2,6 @@
 
 namespace backend\theme;
 
-class Breadcrumbs extends \yii\widgets\Breadcrumbs
+class Breadcrumbs extends \denis909\theme\Breadcrumbs
 {
 }
